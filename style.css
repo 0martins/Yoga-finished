@@ -1,0 +1,86 @@
+        * {
+            margin: 0;
+            bottom: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        .top {
+            display: block;
+            text-align: center;
+        }
+        
+        .triangle {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        input {
+            display: block;
+            width: 321px;
+            height: 46px;
+            left: 45px;
+            top: 381px;
+            background: #F7F7F7;
+            box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+            border-radius: 10px;
+            margin: 10px auto 10px auto;
+        }
+        
+        input::placeholder {
+            font-style: normal;
+            font-weight: normal;
+            font-size: 13px;
+            line-height: 15px;
+            padding-left: 10px;
+        }
+        
+        P {
+            text-align: -webkit-right;
+            margin-right: 10px;
+            font-size: 13px;
+            line-height: 15px;
+            color: #969696;
+            Top: 463px;
+            font-weight: 400;
+        }
+        
+        button {
+            display: block;
+            width: 133px;
+            height: 46px;
+            left: 140px;
+            box-shadow: -4px 4px 18px;
+            background: #323232;
+            border-radius: 10px;
+            margin: 50px auto;
+            color: #FFFFFF;
+        }
+        
+        h2 {
+            color: #969696;
+            margin: 0;
+            bottom: 0;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 15px;
+            line-height: 18px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        strong {
+            color: #000000;
+        }
+        
+        h3 {
+            text-align: center;
+            margin-bottom: 36px;
+        }
+        
+        .link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
